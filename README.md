@@ -1,5 +1,4 @@
 # pelis
-PELIS
 <html lang="es">
 <head>
   <meta charset="UTF-8">
