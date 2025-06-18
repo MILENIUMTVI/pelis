@@ -22,7 +22,7 @@ PELIS
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <script>
     var video = document.getElementById('my-video');
-    var videoSrc = 'https://app.viloud.tv/hls/channel/8823313f19b20ef55dea4f3ad8a4cab7.m3u8'; 
+    var videoSrc = 'https://app.viloud.tv/hls/channel/fa28724c715bb373296ca57a2dcd551c.m3u8'; 
     if (Hls.isSupported()) {
       var hls = new Hls();
       hls.loadSource(videoSrc);
